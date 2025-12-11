@@ -42,46 +42,6 @@ I'm currently building my next chapter in the **UAE** as a Full-Stack Engineer
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Enterprise Marketing Automation Platform  
-Real-time campaign engine handling **millions of events** daily.  
-High-volume APIs, optimized SQL, and multi-channel orchestration.
-
-**Tech:** Angular · .NET Core · SQL Server  
-**Repo:** _Private (Enterprise Project)_
-
----
-
-### 🔹 Health & Wellness Platform  
-Employee health scoring, dashboards, RBAC, real-time insights.
-
-**Tech:** Angular · .NET Core · Firebase · SQL  
-**Repo:** _Private (Client Project)_
-
----
-
-### 🔹 Real-Time SOS Emergency System  
-WebSocket engine delivering alerts in **<1 sec**, multilingual, instant uploads.
-
-**Tech:** Golang · MongoDB · WebSockets  
-**Repo:** Coming Soon  
-
----
-
-### 🔹 Project & Issue Tracking System  
-Jira-style workflows, MOM tracking, and team-coordination tools.
-
-**Tech:** Angular · .NET Core  
-**Repo:** Coming Soon  
-
----
-
-## 📈 GitHub Activity  
-![Stats](https://github-readme-stats.vercel.app/api?username=parthiban-uthirakumaran&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthiban-uthirakumaran&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🌍 Connect With Me  
