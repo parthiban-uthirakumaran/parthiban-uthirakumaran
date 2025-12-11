@@ -40,9 +40,7 @@ I'm currently building my next chapter in the **UAE** as a Full-Stack Engineer
 **Tools:**  
 `Git` · `GitHub` · `Postman` · `Jira` · `Firebase`
 
----
 
----
 
 ## 🌍 Connect With Me  
 📍 Based in **Dubai, UAE**  
